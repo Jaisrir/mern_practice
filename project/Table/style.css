@@ -1,0 +1,25 @@
+div{
+    background-color: black;
+    height: 50px;
+    width: 40px;
+    
+}
+table{
+    border:2px;
+    background-color: rgb(71, 144, 91);
+    border-style: solid;
+    padding: 20px;
+    height: 40px;
+    width: 40px;
+}
+ td{
+    padding: 20px;
+ }
+ table:hover{
+    color: chartreuse;
+    background-color: black;
+    border-collapse: collapse;
+ }
+ div:hover{
+    border-radius: 40px;
+ }

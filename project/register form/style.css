@@ -1,0 +1,23 @@
+div{
+    background-color:#4678a4;
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    border-radius: 20px;
+    color:#DBDBFF;
+}
+form{
+margin-left: 90px;
+margin-top:70px;
+}
+input{
+    padding: 10px;
+}
+.sr{
+    width: 50px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}

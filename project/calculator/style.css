@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+td{
+    padding: 20px;
+}
+table{
+    background-color:rgba(0,0,0,255) ;
+    color: white;
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+}
+th{
+    padding: 20px;
+
+}
+.sr{
+    background-color:rgba(15,117,219,255);
+}
+#ri{
+    background-color:rgba(239,69,49,255) ;
+}
+#y{
+    background-color: rgba(155,205,49,255);
+}
+td{
+    border-radius: 10px;
+}
+div{
+    margin-top: 60px;
+}
+
